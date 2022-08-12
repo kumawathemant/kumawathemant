@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there 👋!
+- 🔭 I’m Hemant Kumawat, a second year PhD Student at Georgia Tech
+- 🌱 I’m work on Computer vision for Autonomous Vehicles 
+- 🤔 I'm organisizing Computer vision reading group via Cohere for AI. Reach out to me if interested in contributing! 
+- 📫 How to reach me: Linkedin/ Email
+- ⚡ Webpage: hemantkumawat.com
 <!--
 **kumawathemant/kumawathemant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
